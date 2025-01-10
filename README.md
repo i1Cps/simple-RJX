@@ -23,15 +23,14 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 
 <div align="center">
 
-![GIFMaker_me (2)](https://github.com/user-attachments/assets/4651ac38-4c9f-4030-82f5-c71c7c937fc5)
-![sprint_quadruped](https://github.com/user-attachments/assets/27049af5-cc39-4aa6-af29-bc3ac5e241ab)
-![sprint_unitree_h1](https://github.com/user-attachments/assets/fb8937e6-ce2a-49e6-ba76-2f241d1106cc)
-![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/50a7beed-ba1a-4b82-97f9-1f63bdba3541)
-![sprint_unitree_g1](https://github.com/user-attachments/assets/27dab09b-6d7b-4fae-ba17-11f40f2c2c0a)
-![sprint_unitree_go2](https://github.com/user-attachments/assets/e95453dd-c770-4877-a8f0-36583095c1cb)
+![sprint_humanoid](https://github.com/user-attachments/assets/3e26cf39-ca79-4503-a12b-75fa689ac9e3)
+![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
+![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
+![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)
+![sprint_unitree_g1](https://github.com/user-attachments/assets/9e25c9d7-da8c-4e42-821f-bf344e09b756)
+![sprint_unitree_go2](https://github.com/user-attachments/assets/a87fbdb0-62b1-4755-bb90-150f206bdd71)
 
 </div>
-
 
 
 <div align="center">

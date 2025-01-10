@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d24f1136-aeb2-4537-a730-375ef33cf4f1" alt="logo" width="550" height="auto" />
+  <img src="https://github.com/user-attachments/assets/e32453d6-d1d3-41ca-8e95-581218c763c6" alt="logo" width="550" height="auto" />
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)

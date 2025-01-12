@@ -83,6 +83,14 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
+### Sprints
+<div align="center">
+![stairs_humanoid](https://github.com/user-attachments/assets/ebf16c6f-894f-499b-9216-106e4a2bb3c7)
+
+
+</div>
+
+
 
 
 

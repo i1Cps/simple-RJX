@@ -93,6 +93,55 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 </div>
 
 
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mel humanoid</strong>
+      </td>
+      <td align="center">
+        <strong>Mel Quadruped</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/h1">Unitree H1</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/g1">Unitree G1</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/go2">Unitree Go2</a>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        12 minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 

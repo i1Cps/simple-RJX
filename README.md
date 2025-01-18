@@ -126,7 +126,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
         12 minutes
       </td>
       <td align="center">
-        TBD minutes
+        14 minutes
       </td>
       <td align="center">
         TBD minutes

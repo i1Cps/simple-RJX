@@ -89,6 +89,8 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 ![stairs_humanoid](https://github.com/user-attachments/assets/ebf16c6f-894f-499b-9216-106e4a2bb3c7)
 ![stairs_quadruped](https://github.com/user-attachments/assets/477a88a1-766f-4d83-9109-4e11cdb55c80)
 ![stairs_unitree_h1](https://github.com/user-attachments/assets/a43d14be-098c-4052-bf76-897715b71da2)
+![stairs_unitree_g1](https://github.com/user-attachments/assets/4468359b-a2ef-41fa-b1ee-ac570f9814cd)
+
 
 </div>
 

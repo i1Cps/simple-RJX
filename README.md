@@ -1,4 +1,4 @@
-<div align="center">
+![fetch_humanoid](https://github.com/user-attachments/assets/fb233d04-6c4c-475c-a664-9ad13dd676aa)<div align="center">
 
 # Simple-RJX (WIP) :rocket:
 
@@ -140,6 +140,66 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
       </td>
       <td align="center">
         52 minutes
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### Reproduce the environments by training locally or instantly using the ***** web links under each environment
+
+### Fetch
+<div align="center">
+
+![fetch_humanoid](https://github.com/user-attachments/assets/d825f70d-917f-418a-b36b-827dde31b3c8)
+
+
+</div>
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mel humanoid</strong>
+      </td>
+      <td align="center">
+        <strong>Mel Quadruped</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/h1">Unitree H1</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/g1">Unitree G1</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/go2">Unitree Go2</a>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
       </td>
     </tr>
   </table>

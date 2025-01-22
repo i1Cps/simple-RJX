@@ -1,6 +1,6 @@
-![fetch_humanoid](https://github.com/user-attachments/assets/fb233d04-6c4c-475c-a664-9ad13dd676aa)<div align="center">
+<div align="center">
 
-# Simple-RJX (WIP) :rocket:
+# Simple-RJX (Demonstration Only) :rocket:
 
 </div>
 
@@ -150,8 +150,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 ### Fetch
 <div align="center">
 
-![fetch_humanoid](https://github.com/user-attachments/assets/d825f70d-917f-418a-b36b-827dde31b3c8)
-
+![fetch_quadruped](https://github.com/user-attachments/assets/06d42386-9255-4c86-ba48-907362165782)
 
 </div>
 
@@ -187,7 +186,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
         TBD minutes
       </td>
       <td align="center">
-        TBD minutes
+        52 minutes
       </td>
       <td align="center">
         TBD minutes

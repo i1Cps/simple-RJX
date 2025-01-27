@@ -152,8 +152,10 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 
 ![fetch_quadruped](https://github.com/user-attachments/assets/06d42386-9255-4c86-ba48-907362165782)
 ![fetch_google_barkkourVb](https://github.com/user-attachments/assets/62388149-5773-4b16-84cc-d97f0b5ba651)
+![fetch_unitree_go2](https://github.com/user-attachments/assets/ca1e0a58-0f17-4d11-9082-619fc4ea1f2f)
 
 </div>
+
 
 
 

@@ -152,10 +152,14 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
   
 ![fetch_humanoid](https://github.com/user-attachments/assets/37d26920-dd19-418d-a0f0-5e6d95400eb9)
 ![fetch_quadruped](https://github.com/user-attachments/assets/f90866f9-e77b-423f-9264-b2e39cd55e53)
+
+![fetch_google_barkourVb](https://github.com/user-attachments/assets/998f7138-732f-46f0-8cfa-178f20445532)
+
 ![fetch_google_barkkourVb](https://github.com/user-attachments/assets/62388149-5773-4b16-84cc-d97f0b5ba651)
 ![fetch_unitree_go2](https://github.com/user-attachments/assets/ca1e0a58-0f17-4d11-9082-619fc4ea1f2f)
 
 </div>
+
 
 
 
@@ -187,7 +191,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
     </tr>
     <tr>
      <td align="center">
-        TBD minutes
+        60 minutes
       </td>
       <td align="center">
         43 minutes

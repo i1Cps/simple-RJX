@@ -22,7 +22,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 ### Fetch
 <div align="center">
 
-![fetch_humanoid](https://github.com/user-attachments/assets/69f58168-6fc8-468f-9b91-e8f12c0ee25d)  
+![fetch_humanoid](https://github.com/user-attachments/assets/69f58168-6fc8-468f-9b91-e8f12c0ee25d)
 ![fetch_quadruped](https://github.com/user-attachments/assets/cca93ef2-9335-4db1-91d1-e4dfd8c14dcb)
 ![fetch_go2](https://github.com/user-attachments/assets/87df5bd7-8724-424a-bad3-8819258bfca7)
 ![fetch_barkourVb](https://github.com/user-attachments/assets/1a36682a-797c-48d4-ad93-3e3b6f983e41)

@@ -19,6 +19,130 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 
 ## Library
 
+### Fetch
+<div align="center">
+
+![fetch_humanoid](https://github.com/user-attachments/assets/69f58168-6fc8-468f-9b91-e8f12c0ee25d)  
+![fetch_quadruped](https://github.com/user-attachments/assets/cca93ef2-9335-4db1-91d1-e4dfd8c14dcb)
+![fetch_go2](https://github.com/user-attachments/assets/87df5bd7-8724-424a-bad3-8819258bfca7)
+![fetch_barkourVb](https://github.com/user-attachments/assets/1a36682a-797c-48d4-ad93-3e3b6f983e41)
+
+
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mel humanoid</strong>
+      </td>
+      <td align="center">
+        <strong>Mel Quadruped</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/h1">Unitree H1</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/g1">Unitree G1</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/go2">Unitree Go2</a>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        60 minutes
+      </td>
+      <td align="center">
+        43 minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        18 minutes
+      </td>
+      <td align="center">
+        24 minutes
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### Reproduce the environments by training locally or instantly using the ***** web links under each environment
+
+
+### Long Jump
+<div align="center">
+
+![fetch_humanoid](https://github.com/user-attachments/assets/69f58168-6fc8-468f-9b91-e8f12c0ee25d)  
+
+</div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mel humanoid</strong>
+      </td>
+      <td align="center">
+        <strong>Mel Quadruped</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/h1">Unitree H1</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/g1">Unitree G1</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/go2">Unitree Go2</a>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### Reproduce the environments by training locally or instantly using the ***** web links under each environment
+
+
+
+
 ### Sprints
 
 <div align="center">
@@ -147,65 +271,6 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
-### Fetch
-<div align="center">
-
-![fetch_humanoid](https://github.com/user-attachments/assets/69f58168-6fc8-468f-9b91-e8f12c0ee25d)  
-![fetch_quadruped](https://github.com/user-attachments/assets/cca93ef2-9335-4db1-91d1-e4dfd8c14dcb)
-![fetch_go2](https://github.com/user-attachments/assets/87df5bd7-8724-424a-bad3-8819258bfca7)
-![fetch_barkourVb](https://github.com/user-attachments/assets/1a36682a-797c-48d4-ad93-3e3b6f983e41)
-
-
-</div>
-
-
-<div align="center">
-  <table>
-    <tr>
-      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
-    </tr>
-    <tr>
-      <td align="center">
-        <strong>Mel humanoid</strong>
-      </td>
-      <td align="center">
-        <strong>Mel Quadruped</strong>
-      </td>
-      <td align="center">
-        <a href="https://www.unitree.com/h1">Unitree H1</a>
-      </td>
-      <td align="center">
-        <a href="https://www.unitree.com/g1">Unitree G1</a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
-      </td>
-      <td align="center">
-        <a href="https://www.unitree.com/go2">Unitree Go2</a>
-      </td>
-    </tr>
-    <tr>
-     <td align="center">
-        60 minutes
-      </td>
-      <td align="center">
-        43 minutes
-      </td>
-      <td align="center">
-        TBD minutes
-      </td>
-      <td align="center">
-        TBD minutes
-      </td>
-      <td align="center">
-        18 minutes
-      </td>
-      <td align="center">
-        24 minutes
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 

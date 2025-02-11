@@ -86,7 +86,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 <div align="center">
 
   ![longjump_humanoid](https://github.com/user-attachments/assets/d4a4f280-9113-44ac-86a1-b6a46e8f198e)
-  ![longjump_quadruped](https://github.com/user-attachments/assets/f559f1d1-10e1-418e-b83b-1becd3e456ad)
+  ![longjump_quadruped](https://github.com/user-attachments/assets/bff0091d-4e2d-4df4-a0a2-bb87c0ba25a5)
   
 </div>
 

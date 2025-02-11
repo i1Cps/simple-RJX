@@ -86,8 +86,10 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
 <div align="center">
 
   ![longjump_humanoid](https://github.com/user-attachments/assets/b5a1b651-e48c-49fc-8820-182902398f92)
+  ![longjump_quadruped](https://github.com/user-attachments/assets/f559f1d1-10e1-418e-b83b-1becd3e456ad)
   
 </div>
+
 
 
 
@@ -121,7 +123,7 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
         17 minutes
       </td>
       <td align="center">
-        TBD minutes
+        15 minutes
       </td>
       <td align="center">
         TBD minutes

@@ -88,7 +88,8 @@ With GPU-accelerated parallelism, you can set up, train, and achieve results in 
   ![longjump_humanoid](https://github.com/user-attachments/assets/d4a4f280-9113-44ac-86a1-b6a46e8f198e)
   ![longjump_quadruped](https://github.com/user-attachments/assets/bff0091d-4e2d-4df4-a0a2-bb87c0ba25a5)
   ![longjump_barkourVb](https://github.com/user-attachments/assets/71752eb0-d816-4d18-ab44-932d3afa5370)
-  ![inference_rollouts](https://github.com/user-attachments/assets/324d1939-24e1-4d68-9163-0218af62d28c)
+  ![inference_rollouts](https://github.com/user-attachments/assets/f632b900-04b9-4595-a57c-4a9ed3a6dded)
+
 
 
 

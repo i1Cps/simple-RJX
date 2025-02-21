@@ -11,8 +11,6 @@
 + Built for simplicity
 + Seamlessly integrates with the [Brax](https://github.com/google/brax) training pipeline (a well respected JAX based PPO baseline in the community)
 
-With GPU-accelerated parallelism, you can set up, train, and achieve results in minutes no hassle, just plug and play within minutes.
-
 ## Library
 
 ### Fetch

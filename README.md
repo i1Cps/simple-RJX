@@ -4,10 +4,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e32453d6-d1d3-41ca-8e95-581218c763c6" alt="logo" width="350" height="auto" />
-</p>
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 ### Simple-RJX is a streamlined collection of MJX environments designed for END-TO-END robotics training using reinforcement learning

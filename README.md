@@ -6,7 +6,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
-### Simple-RJX is a streamlined collection of MJX environments designed for END-TO-END robotics training using reinforcement learning
+### Simple-RJX is a demonstration of MJX environments designed for END-TO-END robotics training using reinforcement learning
 
 + Built for simplicity
 + Seamlessly integrates with the [Brax](https://github.com/google/brax) training pipeline (a well respected JAX based PPO baseline in the community)

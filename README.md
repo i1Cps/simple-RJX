@@ -215,7 +215,7 @@
         7 minutes
       </td>
       <td align="center">
-        27 minutes
+        17 minutes
       </td>
       <td align="center">
         11 minutes

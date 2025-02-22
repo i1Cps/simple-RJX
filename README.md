@@ -20,6 +20,8 @@
 ![fetch_quadruped](https://github.com/user-attachments/assets/cca93ef2-9335-4db1-91d1-e4dfd8c14dcb)
 ![fetch_go2](https://github.com/user-attachments/assets/87df5bd7-8724-424a-bad3-8819258bfca7)
 ![fetch_barkourVb](https://github.com/user-attachments/assets/1a36682a-797c-48d4-ad93-3e3b6f983e41)
+![inference_rollouts2](https://github.com/user-attachments/assets/030c41e3-53e2-4da3-b3e9-8633886c8afb)
+
 
 
 </div>

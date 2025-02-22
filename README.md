@@ -302,6 +302,6 @@
 
 https://github.com/user-attachments/assets/e071d12e-dc03-45dc-b370-c8ed3fbc738f
 
-![Uploading compressed.gif…]()
+![compressed](https://github.com/user-attachments/assets/ebbe24d2-1f52-49c9-bd4e-0dd0c6ec40d9)
 
 

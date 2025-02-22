@@ -54,7 +54,27 @@
     </tr>
     <tr>
      <td align="center">
-        60 minutes
+        70 minutes
+      </td>
+      <td align="center">
+        43 minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        18 minutes
+      </td>
+      <td align="center">
+        24 minutes
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        706950 SPS
       </td>
       <td align="center">
         43 minutes

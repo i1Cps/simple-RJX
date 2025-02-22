@@ -173,7 +173,7 @@
 ![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
 ![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
 ![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)
-![sprint_unitree_g1](https://github.com/user-attachments/assets/9e25c9d7-da8c-4e42-821f-bf344e09b756)
+![sprint_unitree_g1](https://github.com/user-attachments/assets/ebbe24d2-1f52-49c9-bd4e-0dd0c6ec40d9)
 ![sprint_unitree_go2](https://github.com/user-attachments/assets/a87fbdb0-62b1-4755-bb90-150f206bdd71)
 
 </div>

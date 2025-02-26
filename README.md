@@ -66,7 +66,7 @@
         18 minutes
       </td>
       <td align="center">
-        24 minutes
+        9 minutes
       </td>
     </tr>
     <tr>

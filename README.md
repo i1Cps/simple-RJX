@@ -18,7 +18,7 @@
 
 ![fetch_humanoid](https://github.com/user-attachments/assets/030c41e3-53e2-4da3-b3e9-8633886c8afb)
 ![fetch_quadruped](https://github.com/user-attachments/assets/2a9fe1ff-b264-4655-a9f0-3c5cf606b474)
-![final](https://github.com/user-attachments/assets/c4fd77ef-8546-4130-9ad3-af28b15ee341)
+![fetch_go2](https://github.com/user-attachments/assets/eb946779-0f89-490d-9b55-74e6893eae6d)
 ![fetch_barkourVb](https://github.com/user-attachments/assets/1a36682a-797c-48d4-ad93-3e3b6f983e41)
 
 </div>

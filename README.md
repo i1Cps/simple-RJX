@@ -64,7 +64,7 @@
         TBD minutes
       </td>
       <td align="center">
-        18 minutes
+        9 minutes
       </td>
       <td align="center">
         9 minutes
@@ -75,7 +75,10 @@
         706950 SPS
       </td>
       <td align="center">
-        43 minutes
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
       </td>
       <td align="center">
         TBD minutes
@@ -84,10 +87,7 @@
         TBD minutes
       </td>
       <td align="center">
-        18 minutes
-      </td>
-      <td align="center">
-        9 minutes
+        TBD minutes
       </td>
     </tr>
   </table>

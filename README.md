@@ -101,7 +101,7 @@
 
   ![longjump_humanoid](https://github.com/user-attachments/assets/d4a4f280-9113-44ac-86a1-b6a46e8f198e)
   ![longjump_quadruped](https://github.com/user-attachments/assets/bff0091d-4e2d-4df4-a0a2-bb87c0ba25a5)
-  ![inference_rollouts3](https://github.com/user-attachments/assets/f7432fed-eb4c-4a8c-806b-7c24438db0d8)
+  ![final](https://github.com/user-attachments/assets/6900d27b-8d6c-4bff-bd04-c52857f8bd8f)
   ![inference_rollouts1](https://github.com/user-attachments/assets/2b78b551-0368-40c4-a972-4fc927862991)
   ![longjump_barkourVb](https://github.com/user-attachments/assets/37c98dbe-d467-4a30-8779-f73160bf3b6f)
   ![longjump_go2](https://github.com/user-attachments/assets/5b7deb44-3483-4088-9fff-73427cf3b51b)

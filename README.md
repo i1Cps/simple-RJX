@@ -21,9 +21,7 @@
 ![fetch_go2](https://github.com/user-attachments/assets/eb946779-0f89-490d-9b55-74e6893eae6d)
 ![fetch_barkourVb](https://github.com/user-attachments/assets/babea94b-c39b-4bc8-b263-da41e4988ebd)
 
-
 </div>
-
 
 <div align="center">
   <table>
@@ -95,7 +93,6 @@
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
-
 ### Long Jump
 <div align="center">
 
@@ -158,15 +155,11 @@
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
-
-
-
 ### Sprints
 
 <div align="center">
 
-
-![sprint_humanoid](https://github.com/user-attachments/assets/f2c3b100-0f00-4f24-9916-7fc39933a71a)
+![inference_rollouts2](https://github.com/user-attachments/assets/680d167b-a635-416f-83a7-3c24b6408e54)
 ![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
 ![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
 ![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)
@@ -174,7 +167,6 @@
 ![sprint_unitree_go2](https://github.com/user-attachments/assets/a87fbdb0-62b1-4755-bb90-150f206bdd71)
 
 </div>
-
 
 <div align="center">
   <table>
@@ -256,9 +248,7 @@
 ![stairs_unitree_g1](https://github.com/user-attachments/assets/4468359b-a2ef-41fa-b1ee-ac570f9814cd)
 ![stairs_unitree_go2](https://github.com/user-attachments/assets/195d35fb-c669-4643-a8bc-91ed7f53e33e)
 
-
 </div>
-
 
 <div align="center">
   <table>

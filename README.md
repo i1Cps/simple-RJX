@@ -159,7 +159,7 @@
 
 <div align="center">
 
-![inference_rollouts2](https://github.com/user-attachments/assets/680d167b-a635-416f-83a7-3c24b6408e54)
+![sprint_humanoid](https://github.com/user-attachments/assets/62810b48-9f1e-4c0a-bfab-9ca5fdebf67d)
 ![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
 ![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
 ![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)

@@ -108,10 +108,6 @@
 
 </div>
 
-
-
-
-
 <div align="center">
   <table>
     <tr>
@@ -169,7 +165,7 @@
 
 <div align="center">
 
-![sprint_humanoid](https://github.com/user-attachments/assets/3e26cf39-ca79-4503-a12b-75fa689ac9e3)
+![sprint_humanoid](https://github.com/user-attachments/assets/e0702fb7-0eda-462a-9c5f-346f562bdaec)
 ![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
 ![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
 ![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)

@@ -160,7 +160,7 @@
 <div align="center">
 
 ![sprint_humanoid](https://github.com/user-attachments/assets/62810b48-9f1e-4c0a-bfab-9ca5fdebf67d)
-![sprint_quadruped](https://github.com/user-attachments/assets/e6223716-abb4-4980-9b28-69fd471654e4)
+![inference_rollouts2](https://github.com/user-attachments/assets/eb8394c3-996a-4192-ad6c-2a1631615077)
 ![sprint_unitree_h1](https://github.com/user-attachments/assets/aaf0c3b5-6e09-446b-ab90-afc1a1cfc716)
 ![sprint_google_barkour_Vb](https://github.com/user-attachments/assets/a4fd1415-0c22-4d46-9001-548099f7a954)
 ![sprint_unitree_g1](https://github.com/user-attachments/assets/ebbe24d2-1f52-49c9-bd4e-0dd0c6ec40d9)

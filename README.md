@@ -75,19 +75,19 @@
         706950 SPS
       </td>
       <td align="center">
-        TBD minutes
+        968117 SPS
       </td>
       <td align="center">
-        TBD minutes
+        TBD SPS
       </td>
       <td align="center">
-        TBD minutes
+        TBD SPS
       </td>
       <td align="center">
-        TBD minutes
+        573742 SPS
       </td>
       <td align="center">
-        TBD minutes
+        668073 SPS
       </td>
     </tr>
   </table>

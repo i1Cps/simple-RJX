@@ -1,4 +1,4 @@
-<div align="center">
+![inference_rollouts2](https://github.com/user-attachments/assets/867bdd3a-e71a-4e7f-8a5a-72198b7e3333)<div align="center">
 
 # Simple-RJX (Demonstration Only) :rocket:
 
@@ -160,7 +160,7 @@
 <div align="center">
 
 ![sprint_humanoid](https://github.com/user-attachments/assets/62810b48-9f1e-4c0a-bfab-9ca5fdebf67d)
-![inference_rollouts1](https://github.com/user-attachments/assets/8bb32f4d-bca1-4060-83ce-f1194f243cfb)
+![sprint_quadruped](https://github.com/user-attachments/assets/33816f52-f18b-4c75-870b-c0bc7fe4670b)
 ![sprint_h1](https://github.com/user-attachments/assets/ec4f14c9-e775-4494-8376-9a9e55a2da10)
 ![sprint_barkourVb](https://github.com/user-attachments/assets/c1171127-543f-4621-ad32-0502b3d79817)
 ![sprint_unitree_g1](https://github.com/user-attachments/assets/ebbe24d2-1f52-49c9-bd4e-0dd0c6ec40d9)

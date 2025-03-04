@@ -1,4 +1,4 @@
-![inference_rollouts2](https://github.com/user-attachments/assets/867bdd3a-e71a-4e7f-8a5a-72198b7e3333)<div align="center">
+<div align="center">
 
 # Simple-RJX (Demonstration Only) :rocket:
 

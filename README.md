@@ -316,20 +316,32 @@
         52 minutes
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        138406 SPS
+      </td>
+      <td align="center">
+        457626 SPS
+      </td>
+      <td align="center">
+        1028639 SPS
+      </td>
+      <td align="center">
+        TBD SPS
+      </td>
+      <td align="center">
+        1015357 SPS
+      </td>
+      <td align="center">
+        1043954 SPS
+      </td>
+    </tr>
   </table>
 </div>
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
 
-
-
-
-
-
-
 https://github.com/user-attachments/assets/e071d12e-dc03-45dc-b370-c8ed3fbc738f
-
-![compressed](https://github.com/user-attachments/assets/ebbe24d2-1f52-49c9-bd4e-0dd0c6ec40d9)
 
 

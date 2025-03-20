@@ -99,6 +99,8 @@
 <div align="center">
 
   ![longjump_humanoid](https://github.com/user-attachments/assets/d4a4f280-9113-44ac-86a1-b6a46e8f198e)
+  ![longjump_humanoid](https://github.com/user-attachments/assets/0d594fb4-4729-44f3-9057-5d304f6a2852)
+
   ![longjump_quadruped](https://github.com/user-attachments/assets/bff0091d-4e2d-4df4-a0a2-bb87c0ba25a5)
   ![final](https://github.com/user-attachments/assets/97d964df-df79-4a95-b1f8-03adf7b5107e)
 

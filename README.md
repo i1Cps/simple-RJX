@@ -17,7 +17,9 @@
 <div align="center">
 
 ![fetch_humanoid](https://github.com/user-attachments/assets/3f230bd6-c925-438e-990a-20caabc8135c)
-![fetch_humanoid](https://github.com/user-attachments/assets/84cc70f2-abf5-4537-9ab3-03dfa6a7ab3f)
+![inference_rollouts](https://github.com/user-attachments/assets/098976be-be59-4aab-af9b-5b261a3d239c)
+
+![fetcggh_humanoid](https://github.com/user-attachments/assets/84cc70f2-abf5-4537-9ab3-03dfa6a7ab3f)
 
 ![fetch_quadruped](https://github.com/user-attachments/assets/2a9fe1ff-b264-4655-a9f0-3c5cf606b474)
 ![fetch_go2](https://github.com/user-attachments/assets/eb946779-0f89-490d-9b55-74e6893eae6d)

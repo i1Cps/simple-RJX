@@ -10,6 +10,7 @@
 
 + Built for simplicity
 + Seamlessly integrates with the [Brax](https://github.com/google/brax) training pipeline (a well respected JAX based PPO baseline in the community)
++ Check out [this](https://github.com/i1Cps/simple-MRJX) for multi robot based RL and environments
 
 ## Library
 

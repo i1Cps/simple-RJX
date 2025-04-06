@@ -4,6 +4,9 @@
 
 </div>
 
+
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 ### Simple-RJX is a collection of robotics based MJX environments designed for END-TO-END training using reinforcement learning
@@ -13,6 +16,81 @@
 + Check out [this](https://github.com/i1Cps/simple-MRJX) for multi robot based RL and environments
 
 ## Library
+
+### Gaps
+<div align="center">
+
+![gaps humanoid](https://github.com/user-attachments/assets/36f9522c-9beb-426e-a0ee-8973a3878d91)
+
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th colspan="6" style="text-align:center;"> Training Times (RTX 4090 Mobile) </th>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>Mel humanoid</strong>
+      </td>
+      <td align="center">
+        <strong>Mel Quadruped</strong>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/h1">Unitree H1</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/g1">Unitree G1</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/google-deepmind/barkour_robot">Google Barkour Vb</a>
+      </td>
+      <td align="center">
+        <a href="https://www.unitree.com/go2">Unitree Go2</a>
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        20 minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+      <td align="center">
+        TBD minutes
+      </td>
+    </tr>
+    <tr>
+     <td align="center">
+        TBD SPS
+      </td>
+      <td align="center">
+        TBD SPS
+      </td>
+      <td align="center">
+        TBD SPS
+      </td>
+      <td align="center">
+        TBD SPS
+      </td>
+      <td align="center">
+        573742 SPS
+      </td>
+      <td align="center">
+        TBD SPS
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Fetch
 <div align="center">

@@ -20,7 +20,8 @@
 ### Gaps
 <div align="center">
 
-![gaps humanoid](https://github.com/user-attachments/assets/36f9522c-9beb-426e-a0ee-8973a3878d91)
+![gaps humanoid](https://github.com/user-attachments/assets/cb27b467-455d-44d1-bdb6-dc892aed2ae2)
+
 
 </div>
 

@@ -1,4 +1,4 @@
-<div align="center">
+![inference_rollouts3](https://github.com/user-attachments/assets/3ea10069-c288-4671-a81d-70140145c1b5)<div align="center">
 
 # Simple-RJX (Demonstration Only) :rocket:
 
@@ -96,7 +96,8 @@
 ### Hurdles (WIP)  
 <div align="center">
   
-![hurdles humanoid](https://github.com/user-attachments/assets/2c06107f-8701-4442-860d-4d07975146bd)
+![inference_rollouts3](https://github.com/user-attachments/assets/2277c02c-bd62-4435-b405-9c965b99fe2e)
+
 
 </div>
 

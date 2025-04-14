@@ -93,6 +93,13 @@
   </table>
 </div>
 
+### Hurdles (WIP)  
+<div align="center">
+  
+![hurdles humanoid](https://github.com/user-attachments/assets/2c06107f-8701-4442-860d-4d07975146bd)
+
+</div>
+
 ### Fetch
 <div align="center">
 

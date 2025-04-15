@@ -95,8 +95,7 @@
 ### Hurdles (WIP)  
 <div align="center">
   
-![inference_rollouts3](https://github.com/user-attachments/assets/2277c02c-bd62-4435-b405-9c965b99fe2e)
-
+![inference_rollouts5](https://github.com/user-attachments/assets/871f8196-9949-450d-b691-05d5eef32623)
 
 </div>
 

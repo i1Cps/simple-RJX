@@ -24,10 +24,12 @@
 
 </div>
 
-### Hurdles (WIP)  
+### Hurdles  
 <div align="center">
   
 ![done](https://github.com/user-attachments/assets/55500b75-1ba5-42d8-b647-7ba6c40cf3b5)
+![inference_rollouts4](https://github.com/user-attachments/assets/2a1106de-808c-40cd-a4e8-d3067ab71ad4)
+
 
 
 </div>

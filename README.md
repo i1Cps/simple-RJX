@@ -6,6 +6,9 @@
 
 
 
+
+
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 ### Simple-RJX is a collection of robotics based MJX environments designed for END-TO-END training using reinforcement learning
@@ -374,6 +377,16 @@
 
 #### Reproduce the environments by training locally or instantly using the ***** web links under each environment
 
+### Humanoids Sprint
+
 https://github.com/user-attachments/assets/98784f10-a01a-479f-ab54-670ac2bf8f81
+
+### Quadrupeds Fetch
+
+https://github.com/user-attachments/assets/5873b8f3-3a42-47b1-a478-68e8d093c4b6
+
+
+
+
 
 

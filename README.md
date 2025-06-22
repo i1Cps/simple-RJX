@@ -387,4 +387,4 @@ https://github.com/user-attachments/assets/5873b8f3-3a42-47b1-a478-68e8d093c4b6
 
 ### Jumping quads
 
-[jumping quads.webm](https://github.com/user-attachments/assets/599e07a2-a963-43dc-aefb-4d4d4e33e57a)
+[jumping quads](https://github.com/user-attachments/assets/c44094bb-0c64-4998-b1b8-94e5bf5a117d)

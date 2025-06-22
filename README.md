@@ -383,7 +383,7 @@ https://github.com/user-attachments/assets/98784f10-a01a-479f-ab54-670ac2bf8f81
 
 ### Sprinting Quads
 
-[quads running](https://github.com/user-attachments/assets/0b672bc8-be0a-475e-b989-2a40b719ef0e)
+[running quads](https://github.com/user-attachments/assets/25e7e007-16a6-4448-939e-6854cf3a3c93)
 
 ### Quadrupeds Fetch
 
@@ -392,4 +392,5 @@ https://github.com/user-attachments/assets/5873b8f3-3a42-47b1-a478-68e8d093c4b6
 ### Jumping quads
 
 [jumping quads](https://github.com/user-attachments/assets/c44094bb-0c64-4998-b1b8-94e5bf5a117d)
+
 
